@@ -1,9 +1,13 @@
 Unsolved Tasks
 ===========
+ - SRM 636
+   - DIV I:
+   - DIV II: 1000
  - SRM 637
    - DIV I: 500 1000
+   - DIV II: 1000
  - SRM 638
-   - DIV I: 300 600 800
+   - DIV I: 800
 
 Introduction
 =========
