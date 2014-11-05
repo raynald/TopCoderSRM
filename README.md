@@ -3,7 +3,7 @@ Unsolved Tasks
  - SRM 637
    - DIV I: 500 1000
  - SRM 638
-   - DIV I:
+   - DIV I: 300 600 800
 
 Introduction
 =========
@@ -27,4 +27,4 @@ License
 
 **Free Software, Hell Yeah!**
 
-[TopCoder]:www.topcoder.com
+[TopCoder]:http://www.topcoder.com
